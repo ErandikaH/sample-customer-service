@@ -19,6 +19,7 @@ $ curl -X POST "content-type: application/json" -d '{
 
 HTTP/1.1 200
 Content-Type: application/json;charset=UTF-8
+
 {
   "customerId": 1
 }
